@@ -4,6 +4,7 @@ __author="Omri"
 import random
 
 FROM=1
+
 TO=100
 ELEMENTS=5
 def get_input():
